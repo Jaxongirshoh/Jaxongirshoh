@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jaxongirshoh
 - 👀 I’m interested in hacking , machine learning , cyber secruty , ai
-- 🌱 I’m currently learning ...html css 
+- 🌱 I’m currently learning ...java 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
