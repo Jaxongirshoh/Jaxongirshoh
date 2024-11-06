@@ -6,5 +6,9 @@ As a passionate Java developer, I am eager to apply my skills and contribute to 
 - [LinkedIn](https://linkedin.com/in/jakhongirkhudoyorov)
 - [email](jakhongirshohkhudoyorov@gmail.com)
 
+## 📈 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaxongirshoh&layout=compact)
+
+
 ⭐️ From [Jaxongirshoh](https://github.com/Jaxongirshoh)
 
