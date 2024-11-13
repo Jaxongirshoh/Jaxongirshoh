@@ -7,7 +7,7 @@ As a passionate Java developer, I am eager to apply my skills and contribute to 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jakhongirkhudoyorov)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%231DA1F2.svg?logo=leetcode&logoColor=ffdd54)](https://leetcode.com/u/jakhongirshohkhudoyorov)\
 [![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://www.t.me/iamwisespirit)
-[![Gmail](https://img.shields.io/badge/rvkamronbek@gmail.com-%230077B5.svg?logo=google&logoColor=white)](mailto:jakhongirshohkhudoyorov@gmail.com)
+[![Gmail](https://img.shields.io/badge/jakhongirshohkhudoyorov@gmail.com-%230077B5.svg?logo=google&logoColor=white)](mailto:jakhongirshohkhudoyorov@gmail.com)
 - [more information on here resume web-site](https://jaxongirxudoyorov.w3spaces.com/)
 
  ## 💼 Skills
