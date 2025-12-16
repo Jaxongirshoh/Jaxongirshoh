@@ -8,11 +8,11 @@ As a passionate Java software engineer, I am eager to apply my skills and contri
 [![LeetCode](https://img.shields.io/badge/LeetCode-%231DA1F2.svg?logo=leetcode&logoColor=ffdd54)](https://leetcode.com/u/jakhongirshohkhudoyorov)\
 [![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://www.t.me/iamwisespirit)
 [![Gmail](https://img.shields.io/badge/jakhongirshohkhudoyorov@gmail.com-%230077B5.svg?logo=google&logoColor=white)](mailto:jakhongirshohkhudoyorov@gmail.com)
-- [more information on here resume web-site](https://jaxongirxudoyorov.w3spaces.com/)
+- [more information ](https://jaxongirxudoyorov.w3spaces.com/)
 
  ## 💼 Skills
 - **Programming Languages:** [Java, C, C++, SQL]
-- **Frameworks:** [Jakarta EE, Spring, Spring boot]
+- **Frameworks:** [Jakarta EE, Spring, Spring boot,JavaFX,Android]
 - **Tools & Technologies:** [Git, Maven, Gradle, REST APIs, JUnit, Hibernate]
  
 
